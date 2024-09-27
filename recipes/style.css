@@ -31,3 +31,8 @@ p {
     font-size: 18px;
     color:rgb(16, 83, 207);
 }
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
